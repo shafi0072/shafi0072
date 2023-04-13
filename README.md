@@ -1,6 +1,6 @@
 [![My Stats](https://github-readme-stats-shafidark.vercel.app/api?username=shafi0072&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Languages](https://github-readme-stats-shafidark.vercel.app/api/top-langs/?username=shafi0072&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My Languages](https://github-readme-stats-shafidark.vercel.app/api/top-langs/?username=shafi0072&hide=assembly,starlark,shell)&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&logoColor=FFFFFF&logo=.ENV&color=ECD53F&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&logoColor=FFFFFF&logo=Amazon+AWS&color=232F3E&label=)

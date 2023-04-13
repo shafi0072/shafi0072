@@ -1,6 +1,42 @@
-[![My Stats](https://github-readme-stats-shafidark.vercel.app/api?username=shafi0072&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Hey! Nice to see you here
+
+## About me
+
+- 👨🏼‍💻 Full stack web developer, expert in front-end
+- 👨🏼‍🎨 Highly experienced in Mern Stack Development
+- 🚀 Founder of Depth-search Software Developemnt Agency
+
+## Get in touch
+
+![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=252525&logo=Instagram&logoColor=E4405F&label=)
+![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=252525&logo=LinkedIn&logoColor=0A66C2&label=)
+![WhatsApp](https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=252525&logo=WhatsApp&logoColor=25D366&label=)
+![Google Meet](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Meet&color=252525&logo=Google+Meet&logoColor=00897B&label=)
+![Zoom](https://img.shields.io/static/v1?style=for-the-badge&message=Zoom&color=252525&logo=Zoom&logoColor=2D8CFF&label=)
+
+## My resumes
+
+![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=252525&logo=LinkedIn&logoColor=0A66C2&label=)
+![Indeed](https://img.shields.io/static/v1?style=for-the-badge&message=Indeed&color=252525&logo=Indeed&logoColor=003A9B&label=)
+
+## Learn about my software development agency
+
+![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=252525&logo=LinkedIn&logoColor=0A66C2&label=)
+![Upwork](https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=252525&logo=Upwork&logoColor=6FDA44&label=)
+
+## My GitHub stats
 
 [![My Languages](https://github-readme-stats-shafidark.vercel.app/api/top-langs/?username=shafi0072&hide=assembly,starlark,shell&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Stats](https://github-readme-stats-shafidark.vercel.app/api?username=shafi0072&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+| **Year** |                                           |
+| -------- | ----------------------------------------- |
+| **2023** | https://skyline.github.com/shafi0072/2023 |
+| **2022** | https://skyline.github.com/shafi0072/2022 |
+| **2021** | https://skyline.github.com/shafi0072/2021 |
+
+## Programming languages + dev/design/business tools I work with daily
 
 ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&logoColor=FFFFFF&logo=.ENV&color=ECD53F&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&logoColor=FFFFFF&logo=Amazon+AWS&color=232F3E&label=)
@@ -75,8 +111,4 @@
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&logoColor=FFFFFF&logo=WordPress&color=21759B&label=)
 ![Yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&logoColor=FFFFFF&logo=Yarn&color=2C8EBB&label=)
 
-| **Year** |                                           |
-| -------- | ----------------------------------------- |
-| **2023** | https://skyline.github.com/shafi0072/2023 |
-| **2022** | https://skyline.github.com/shafi0072/2022 |
-| **2021** | https://skyline.github.com/shafi0072/2021 |
+

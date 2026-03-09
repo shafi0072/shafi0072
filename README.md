@@ -1,19 +1,29 @@
-# 👋 Hey, I’m Shafi — Full-Stack Developer & Cloud Engineer  
-### Founder of **DevsArch** & Creator of **Depth-Search Ecosystem**
+# 👋 Hey, I'm Safi — AI/LLM Integration Expert & Full-Stack Engineer  
+### Founder of **Zesxai** | Creator of **Axura** (AI Compliance SaaS)
 
-I'm a **Full-Stack Engineer (MERN + Next.js + AWS)** building high-performance, scalable systems — from multi-tenant SaaS apps to AI-powered platforms.  
-I architect **serverless, event-driven, cloud-native** systems for global clients, and I specialize in transforming business ideas into production-ready software.
+I'm an **AI-focused Full-Stack Engineer** with 7+ years experience building production-ready SaaS products.  
+I specialize in **LLM integrations (ChatGPT, Claude), AI Agents, and cloud-native architectures** on AWS.
 
-I’ve shipped **70+ real-world applications**, built **enterprise dashboards**, **AI agents**, **mobile apps**, and **automated cloud infrastructures**.
+I've shipped **70+ real-world applications**, including **AI-powered enterprise platforms**, **multi-tenant SaaS**, **mobile apps**, and **automated cloud infrastructures**.
+
+🔥 **Currently building:** AI-powered compliance automation SaaS with multi-model routing
 
 ---
 
-## 🚀 **What I Do (2025)**
+## 🚀 **What I Do (2026)**
+
+### **🤖 AI & LLM Engineering**
+- LLM integrations (OpenAI GPT, Claude, Gemini)
+- AI Agents & Agentic workflows
+- RAG pipelines with Vector databases
+- AI-powered chat systems & assistants
+- Voice AI integrations (Whisper, Edge TTS)
+- Multi-model routing & orchestration
 
 ### **🟣 Full-Stack & SaaS Engineering**
 - Multi-tenant SaaS apps (isolation, RBAC, subscriptions)  
 - Real-time dashboards (WebSockets, Server Actions, AWS AppSync)  
-- AI workflows + LLM integrations  
+- AI-integrated workflows & automation
 - Payment systems (Stripe, bKash, SSLCOMMERZ)
 
 ### **🟡 AWS Cloud Architecture & DevOps**
@@ -26,121 +36,133 @@ I’ve shipped **70+ real-world applications**, built **enterprise dashboards**,
 - Flutter apps (real-time navigation, Google Maps, FCM push notifications)  
 - React Native apps with modern UI & cloud-connected backends
 
-### **🔵 AI Engineering**
-- AI chat systems (OpenAI GPT, voice + image input)  
-- Workflow automation & agentic systems  
-- Education-focused AI models (Bangladeshi HSC & Admission prep)
+---
+
+## 🏢 **About Zesxai**
+
+**[Zesxai.com](https://zesxai.com)** — A modern software development agency specializing in:
+
+- 🤖 **AI/LLM Integration** for existing products
+- 🚀 **SaaS Product Development** from scratch
+- ☁️ **Cloud Infrastructure** on AWS
+- 📱 **Web & Mobile Development** for startups + enterprises
+
+We help businesses add AI superpowers to their products — fast, scalable, production-ready.
 
 ---
 
 ## 📞 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=000000&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/)
-[![Upwork](https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=000000&logo=Upwork&logoColor=6FDA44)](#)
-[![WhatsApp](https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=000000&logo=WhatsApp&logoColor=25D366)](https://wa.me/)
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=000000&logo=Instagram&logoColor=E4405F)](#)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=000000&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/abdullahalsafi/)
+[![Upwork](https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=000000&logo=Upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/~01yourid)
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Zesxai&color=000000&logo=Google-Chrome&logoColor=4285F4)](https://zesxai.com)
+[![WhatsApp](https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=000000&logo=WhatsApp&logoColor=25D366)](https://wa.me/yourphone)
 
 ---
 
-## 🏢 **About DevsArch**
+## 🔥 **Featured Projects**
 
-A modern **software development startup** specializing in:
+### **1️⃣ Axura — AI Compliance Automation SaaS**
+AI-powered platform that auto-detects compliance issues, maps multi-repo architectures, and provides SOC2-ready reports.
+- Multi-model routing (Claude, GPT-4)
+- Enterprise-grade security (AES-256-GCM)
+- Built with: Next.js, Supabase, AWS Lambda, TypeScript
 
-- SaaS product development  
-- AI-driven business automation  
-- Cloud infrastructure on AWS  
-- Web & mobile development for startups + enterprises  
+### **2️⃣ AI Analysis Platform (Enterprise)**
+AI-powered analysis tool for chemical industry with LLM chat, ML model training, and DOE suggestions.
+- LLM-powered chat interface
+- ML model training pipeline (XGBoost, Random Forest)
+- Real-time data visualization with Plotly
+- Built with: React, Next.js, AWS, Python, OpenAI API
 
-We’re launching our **full ecosystem in 2025** (rental system, ride-sharing, video conference, super admin panel, chat platform).
+### **3️⃣ AI Voice Assistant (Personal Project)**
+Jarvis-like AI assistant with voice commands, multi-platform integration, and automated task execution.
+- Voice recognition (Whisper)
+- Multi-model AI routing
+- Telegram integration
+- Built with: Python, OpenAI, Edge TTS
+
+### **4️⃣ Multi-tenant SaaS Platform**
+Enterprise SaaS with AWS Cognito authentication, role-based access, and dynamic dashboards.
+- Super admin → Business → Users hierarchy
+- Real-time dashboards
+- Built with: Next.js, AWS Amplify, DynamoDB
+
+### **5️⃣ Cross-Platform Mobile App**
+Flutter app with real-time navigation, push notifications, and live location tracking.
+- Google Maps integration
+- FCM push notifications
+- Built with: Flutter, Firebase, REST APIs
+
+---
+
+## 🧰 **Tech Stack (2026)**
+
+### **🤖 AI & LLM**
+```
+OpenAI API | Claude API | LangChain | Vector DBs (Pinecone, ChromaDB)
+RAG Pipelines | AI Agents | Whisper | Multi-model Routing
+```
+
+### **🚀 Frontend**
+```
+Next.js 14 | React 18 | TypeScript | Tailwind CSS
+React Query | Zustand | Redux Toolkit | Radix UI
+```
+
+### **⚙️ Backend**
+```
+Node.js | Express | Python | GraphQL (Apollo + AppSync)
+REST APIs | WebSockets | Server Actions
+```
+
+### **☁️ Cloud & DevOps**
+```
+AWS (Cognito, Lambda, DynamoDB, S3, EC2, CloudWatch)
+AWS Amplify | Supabase | Vercel
+Docker | GitHub Actions | CI/CD
+```
+
+### **📱 Mobile**
+```
+Flutter | React Native | Firebase | FCM
+```
+
+### **📦 Databases**
+```
+DynamoDB | MongoDB | PostgreSQL | Supabase | Vector DBs
+```
 
 ---
 
 ## 📊 **GitHub Stats**
 
-[![Top Langs](https://github-readme-stats-shafidark.vercel.app/api/top-langs/?username=shafi0072&layout=compact&theme=tokyonight)](https://github.com/)
-[![Stats](https://github-readme-stats-shafidark.vercel.app/api?username=shafi0072&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/)
-
-### 🏔 Skyline  
-| Year | Link |
-|------|------|
-| **2023** | https://skyline.github.com/shafi0072/2023 |
-| **2022** | https://skyline.github.com/shafi0072/2022 |
-| **2021** | https://skyline.github.com/shafi0072/2021 |
+[![Top Langs](https://github-readme-stats-shafidark.vercel.app/api/top-langs/?username=shafi0072&layout=compact&theme=tokyonight)](https://github.com/shafi0072)
+[![Stats](https://github-readme-stats-shafidark.vercel.app/api?username=shafi0072&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/shafi0072)
 
 ---
 
-## 🧰 **Tech Stack (2025 Expertise Level)**
+## 🎯 **2026 Goals**
 
-### **🚀 Core Development**
-- **Next.js 14 (Server Actions, App Router, Middleware)**  
-- **React 18, React Query, Zustand, Redux Toolkit**  
-- **Node.js, Express, GraphQL (Apollo + AppSync)**  
-- **MERN Stack (MongoDB + Express + React + Node)**
-
-### **☁️ Cloud & DevOps**
-- AWS **Cognito, DynamoDB, Lambda, EC2, S3, CloudWatch, CloudFront**  
-- AWS Amplify (Auth, Hosting, Studio)  
-- API Gateway, SNS, SQS  
-- Docker, Nginx, PM2  
-- GitHub Actions CI/CD
-
-### **📱 Mobile**
-- Flutter (Maps, Location, FCM, REST, Realtime DB)  
-- React Native
-
-### **🧠 AI & Automation**
-- OpenAI API (Chat, Transcription, Assistants)  
-- AI chat screens (MUI + Next.js)  
-- Voice input, image processing, embeddings  
-- Educational AI models (HSC + Admission)
-
-### **📦 Databases**
-- DynamoDB (GSI/LSI, cost optimization)  
-- MongoDB (Mongoose, aggregations)  
-- PostgreSQL (via Prisma)
-
-### **🎨 UI/UX**
-- Tailwind CSS  
-- MUI Modernize Template  
-- Chakra UI  
-- Figma  
-- Storybook
+- 🚀 Launch **Axura** (AI Compliance SaaS) publicly
+- 💼 Scale **Zesxai** to $10k+/month revenue
+- 🌍 Work with international AI-focused clients
+- 📚 Share AI/LLM development content
+- 👨‍👩‍👧 Welcome my first child (July 2026!)
 
 ---
 
-## 🔥 Highlight Projects (Recent)
+## ⭐ **Quote I Live By**
 
-### **1️⃣ AI Chat System (Next.js + MUI + OpenAI)**  
-Voice input, image upload, token counting, streaming responses.
-
-### **2️⃣ Multi-tenant SaaS with AWS Cognito + Amplify**  
-Super admin → Business → Users → Role-based sidebar + dashboard.
-
-### **3️⃣ Rental App "Heavnt"**  
-Real-time booking, dynamic map, landlord dashboard.
-
-### **4️⃣ Drone Delivery Navigation System**  
-Coordinates → route mapping → distance estimation.
-
-### **5️⃣ Cross-Platform Flutter App**  
-Google Maps navigation, push notifications, live location.
+> _"Don't just write code — build systems that solve real problems."_
 
 ---
 
-## 🔥 2025 Goals
+### 💼 **Available for AI/LLM Integration Projects**
 
-- Build my **first AI SaaS product**  
-- Become an **international programming influencer**  
-- Grow **DevsArch** into a global development brand  
-- Help Bangladeshi developers learn cloud + SaaS systems  
-- Launch the **education + AI platform** for Bangladesh students  
-
----
-
-## ⭐ Quote I Live By
-
-> _"The code you write becomes outdated.  
-But the **systems you build** can change lives."_  
+If you need help adding AI features to your product, let's talk:
+- 📧 Email: support@zesxai.com
+- 🌐 Website: [zesxai.com](https://zesxai.com)
+- 💬 WhatsApp: [Message me](https://wa.me/+8801727768266)
 
 ---
-

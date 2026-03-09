@@ -53,10 +53,10 @@ We help businesses add AI superpowers to their products — fast, scalable, prod
 
 ## 📞 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=000000&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/abdullahalsafi/)
-[![Upwork](https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=000000&logo=Upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/~01yourid)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=000000&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/mdabdullahalsafi/)
+[![Upwork](https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=000000&logo=Upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/abdullahalsafi)
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Zesxai&color=000000&logo=Google-Chrome&logoColor=4285F4)](https://zesxai.com)
-[![WhatsApp](https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=000000&logo=WhatsApp&logoColor=25D366)](https://wa.me/yourphone)
+[![WhatsApp](https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=000000&logo=WhatsApp&logoColor=25D366)](https://wa.me/+8801727768266)
 
 ---
 
